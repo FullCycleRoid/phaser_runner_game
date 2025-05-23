@@ -18,7 +18,7 @@ const config = {
             debug: true,
         },
     },
-    
+
     scene: [Game, GameOver],
 };
 
