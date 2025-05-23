@@ -1,6 +1,6 @@
 import Phaser from "phaser";
-import Game from "./scenes/game";
-import GameOver from "./scenes/gameover";
+import Game from "./game";
+import GameOver from "./gameover";
 
 const config = {
     width: 600,
